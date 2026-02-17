@@ -69,4 +69,3 @@ Although your specific results will depend on the dataset, similar Diwali sales 
 These insights are typically backed by visual plots and statistical summaries, enabling clearer business decisions.
 
 ---
----
