@@ -33,7 +33,7 @@ Customer segmentation and how demographic trends relate to sales
 
 Which products or categories perform best during festive sales
 
-## 🚀 Analysis Workflow
+##  Analysis Workflow
 
 1. #### Load Data:
    Read the CSV dataset into a Pandas DataFrame.
