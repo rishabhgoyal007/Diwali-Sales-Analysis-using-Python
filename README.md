@@ -1,25 +1,25 @@
-# 🎇 Diwali Sales Analysis
+#  Diwali Sales Analysis
 
 A Data Analysis & Visualization Project exploring sales data from the Diwali festival period to uncover customer behavior patterns, product trends, and key business insights using Python and Jupyter Notebook.
 
-## 📌 Project Overview
+##  Project Overview
 
 During the Diwali festive season, retail sales surge dramatically. This project analyzes transactional sales data to better understand who buys what, where sales are high, and which customer segments contribute most to revenue. This analysis helps businesses tailor marketing strategies, optimize inventory, and improve customer experience.
 
 
-## 📊 Dataset Description
+##  Dataset Description
 
 The dataset contains sales records from the Diwali festival period.
 
-#### 🗒️ Data cleaning typically involves dropping irrelevant columns like Status and unnamed1, handling missing values, and ensuring correct data types before analysis.
+####  Data cleaning typically involves dropping irrelevant columns like Status and unnamed1, handling missing values, and ensuring correct data types before analysis.
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 
 This project uses the following technologies:
 
 Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn
 
-## 🧠 What You Will Learn
+##  What You Will Learn
 
 By exploring this project, you’ll understand:
 
@@ -56,7 +56,7 @@ Which products or categories perform best during festive sales
    Assess top-performing products and regions
 
 
-## 📈 Example Insights (Typical Findings)
+##  Example Insights (Typical Findings)
 
 Although your specific results will depend on the dataset, similar Diwali sales analyses have shown trends such as:
 
