@@ -7,7 +7,7 @@ A Data Analysis & Visualization Project exploring sales data from the Diwali fes
 During the Diwali festive season, retail sales surge dramatically. This project analyzes transactional sales data to better understand who buys what, where sales are high, and which customer segments contribute most to revenue. This analysis helps businesses tailor marketing strategies, optimize inventory, and improve customer experience.
 
 
-##  Dataset Description
+##  Dataset Description 
 
 The dataset contains sales records from the Diwali festival period.
 
